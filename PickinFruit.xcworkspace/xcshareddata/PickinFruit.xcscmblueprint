@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F933698B80FAF1BCA216F2E3AD508EA602281E86",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F933698B80FAF1BCA216F2E3AD508EA602281E86" : 0,
+    "5A29B29B9B8CFBCA28F072170B70F021754525D7" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EF4E619B-E64C-4E27-8F4C-7CAAE5E457EA",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F933698B80FAF1BCA216F2E3AD508EA602281E86" : "swift-pickinFruit-lab-ios-0616\/",
+    "5A29B29B9B8CFBCA28F072170B70F021754525D7" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PickinFruit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PickinFruit.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Uskinn\/Uber-SplashScreen-Tutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5A29B29B9B8CFBCA28F072170B70F021754525D7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Uskinn\/swift-pickinFruit-lab-ios-0616.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F933698B80FAF1BCA216F2E3AD508EA602281E86"
+    }
+  ]
+}
